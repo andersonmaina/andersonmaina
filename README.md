@@ -25,65 +25,86 @@
 
 ## 🔥 SYSTEM OVERVIEW
 
-<table width="100%">
+<!-- System Overview Grid -->
+<div align="center">
+<table width="100%" cellpadding="15" cellspacing="0" style="border-collapse: separate; border-spacing: 20px;">
 <tr>
-<td width="50%">
+<td width="50%" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 15px; padding: 25px; border: 2px solid #FF0000;">
 
-### 🎯 CURRENT OPERATIONS
-```yaml
-project: FACS AI Platform
-status: ACTIVE DEVELOPMENT
-location: facsai.ct.ws
-classification: CONFIDENTIAL
-```
+<h3 align="center">🎯 CURRENT OPERATIONS</h3>
 
-### 🧠 LEARNING PROTOCOLS
-```bash
-> Executing: Neural Architecture Search (NAS)
-> Status: DEEP LEARNING IN PROGRESS...
-> ETA: CONTINUOUS
-```
+<div style="background: #000000; padding: 20px; border-radius: 10px; border-left: 4px solid #FF0000; margin: 15px 0;">
+<pre style="color: #00ff00; margin: 0; font-family: 'Courier New', monospace;">
+<span style="color: #FF0000;">project:</span> <span style="color: #ffffff;">FACS AI Platform</span>
+<span style="color: #FF0000;">status:</span> <span style="color: #00ff00; font-weight: bold;">ACTIVE DEVELOPMENT</span>
+<span style="color: #FF0000;">location:</span> <span style="color: #0000FF;">facsai.ct.ws</span>
+<span style="color: #FF0000;">classification:</span> <span style="color: #ffff00;">CONFIDENTIAL</span>
+</pre>
+</div>
 
-### 🤝 COLLABORATION MATRIX
-```json
-{
-  "seeking": "nativefier",
-  "expertise": ["GSAP", "React", "AI", "N8N", "Node.js"],
-  "availability": "OPEN SOURCE"
-}
-```
+<h3 align="center">🧠 LEARNING PROTOCOLS</h3>
+
+<div style="background: #000000; padding: 20px; border-radius: 10px; border-left: 4px solid #0000FF; margin: 15px 0;">
+<pre style="color: #00ff00; margin: 0; font-family: 'Courier New', monospace;">
+<span style="color: #0000FF;">></span> <span style="color: #ffffff;">Executing: Neural Architecture Search (NAS)</span>
+<span style="color: #0000FF;">></span> <span style="color: #FF0000;">Status: DEEP LEARNING IN PROGRESS...</span>
+<span style="color: #0000FF;">></span> <span style="color: #ffffff;">ETA: CONTINUOUS</span>
+</pre>
+</div>
+
+<h3 align="center">🤝 COLLABORATION MATRIX</h3>
+
+<div style="background: #000000; padding: 20px; border-radius: 10px; border-left: 4px solid #00ff00; margin: 15px 0;">
+<pre style="color: #00ff00; margin: 0; font-family: 'Courier New', monospace;">
+<span style="color: #ffffff;">{</span>
+  <span style="color: #FF0000;">"seeking":</span> <span style="color: #ffff00;">"nativefier"</span><span style="color: #ffffff;">,</span>
+  <span style="color: #FF0000;">"expertise":</span> <span style="color: #ffffff;">[</span><span style="color: #0000FF;">"GSAP", "React", "AI", "N8N", "Node.js"</span><span style="color: #ffffff;">]</span><span style="color: #ffffff;">,</span>
+  <span style="color: #FF0000;">"availability":</span> <span style="color: #00ff00;">"OPEN SOURCE"</span>
+<span style="color: #ffffff;">}</span>
+</pre>
+</div>
 
 </td>
-<td width="50%">
+<td width="50%" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 15px; padding: 25px; border: 2px solid #0000FF;">
 
-### 📡 COMMUNICATION CHANNELS
-```css
-.contact {
-  email: anderson.njoroge.maina@gmail.com;
-  portfolio: https://mainadev.rf.gd;
-  security-clearance: PUBLIC;
-}
-```
+<h3 align="center">📡 COMMUNICATION CHANNELS</h3>
 
-### 🎲 RANDOM FACTS DATABASE
-```python
-fun_fact = {
-    "explosive": "Peanuts create dynamite",
-    "probability": 0.99,
-    "verified": True
-}
-```
+<div style="background: #000000; padding: 20px; border-radius: 10px; border-left: 4px solid #FF0000; margin: 15px 0;">
+<pre style="color: #00ff00; margin: 0; font-family: 'Courier New', monospace;">
+<span style="color: #0000FF;">.contact</span> <span style="color: #ffffff;">{</span>
+  <span style="color: #FF0000;">email:</span> <span style="color: #ffff00;">anderson.njoroge.maina@gmail.com</span><span style="color: #ffffff;">;</span>
+  <span style="color: #FF0000;">portfolio:</span> <span style="color: #0000FF;">https://mainadev.rf.gd</span><span style="color: #ffffff;">;</span>
+  <span style="color: #FF0000;">security-clearance:</span> <span style="color: #00ff00;">PUBLIC</span><span style="color: #ffffff;">;</span>
+<span style="color: #ffffff;">}</span>
+</pre>
+</div>
 
-### 🚀 MISSION STATUS
-```sql
-SELECT mission FROM life 
-WHERE goal = 'Build Amazing Tech'
-STATUS: EXECUTING...
-```
+<h3 align="center">🎲 RANDOM FACTS DATABASE</h3>
+
+<div style="background: #000000; padding: 20px; border-radius: 10px; border-left: 4px solid #ffff00; margin: 15px 0;">
+<pre style="color: #00ff00; margin: 0; font-family: 'Courier New', monospace;">
+<span style="color: #0000FF;">fun_fact</span> <span style="color: #ffffff;">=</span> <span style="color: #ffffff;">{</span>
+    <span style="color: #FF0000;">"explosive":</span> <span style="color: #ffff00;">"Peanuts create dynamite"</span><span style="color: #ffffff;">,</span>
+    <span style="color: #FF0000;">"probability":</span> <span style="color: #00ff00;">0.99</span><span style="color: #ffffff;">,</span>
+    <span style="color: #FF0000;">"verified":</span> <span style="color: #0000FF;">True</span>
+<span style="color: #ffffff;">}</span>
+</pre>
+</div>
+
+<h3 align="center">🚀 MISSION STATUS</h3>
+
+<div style="background: #000000; padding: 20px; border-radius: 10px; border-left: 4px solid #ff00ff; margin: 15px 0;">
+<pre style="color: #00ff00; margin: 0; font-family: 'Courier New', monospace;">
+<span style="color: #0000FF;">SELECT</span> <span style="color: #ffffff;">mission</span> <span style="color: #0000FF;">FROM</span> <span style="color: #ffffff;">life</span> 
+<span style="color: #0000FF;">WHERE</span> <span style="color: #ffffff;">goal =</span> <span style="color: #ffff00;">'Build Amazing Tech'</span>
+<span style="color: #FF0000;">STATUS:</span> <span style="color: #00ff00; font-weight: bold;">EXECUTING...</span>
+</pre>
+</div>
 
 </td>
 </tr>
 </table>
+</div>
 
 <br/>
 
