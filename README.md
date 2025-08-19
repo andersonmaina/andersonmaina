@@ -131,7 +131,7 @@
 </a>
 </td>
 <td align="center" width="33%">
-<a href="https://www.leetcode.com/dxlor">
+<a href="https://www.leetcode.com/andersonmaina">
 <img src="https://img.shields.io/badge/LEETCODE-ALGORITHM%20HUB-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000"/>
 <br/>
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="60" height="60"/>
