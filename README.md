@@ -1,157 +1,316 @@
+<!-- Header Section with Animated Typing Effect Simulation -->
 <div align="center">
-  <h1>👋 Hi, I'm Anderson</h1>
-  <h3>Web and AI Developer</h3>
-  
-  <img src="https://komarev.com/ghpvc/?username=andersonmaina&label=Profile%20views&color=ff007f&style=flat" alt="Profile views" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:000080,100:000000&height=300&section=header&text=ANDERSON%20MAINA&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Web%20%26%20AI%20Developer%20%7C%20Neural%20Architecture%20Specialist&descAlignY=55&descSize=18"/>
 </div>
 
+<!-- Futuristic Profile Stats Bar -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=andersonmaina&theme=radical&no-frame=true&margin-w=10&row=2&column=4" alt="GitHub trophies" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=andersonmaina&label=SYSTEM%20ACCESS&color=FF0000&style=plastic&labelColor=000080" alt="Profile views" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=plastic&logo=statuspage&logoColor=white&labelColor=000080" alt="Status" />
+  <img src="https://img.shields.io/badge/AI%20SPECIALIST-NEURAL%20ARCH-FF0000?style=plastic&logo=artificial-intelligence&logoColor=white&labelColor=000080" alt="AI Specialist" />
+  <img src="https://img.shields.io/badge/MODE-INNOVATION-0000FF?style=plastic&logo=rocket&logoColor=white&labelColor=000000" alt="Mode" />
 </div>
 
+<br/>
+
+<!-- Matrix Style Loading Animation Simulation -->
 <div align="center">
-  <a href="https://twitter.com/anderson_maina_" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/anderson_maina_?logo=twitter&style=for-the-badge&color=ff007f&labelColor=1a1a2e" alt="Twitter follow" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=1000&height=80&lines=INITIALIZING+SYSTEMS...;LOADING+NEURAL+NETWORKS...;ANDERSON.EXE+READY;BUILDING+THE+FUTURE+WITH+CODE" alt="Typing SVG" />
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+<!-- Epic Divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header"/>
 
-- 🔭 I'm currently working on **[FACS](https://facsai.ct.ws)**
-- 🌱 I'm currently learning **Neural Architecture Search (NAS)**
-- 👯 I'm looking to collaborate on **nativefier**
-- 💬 Ask me about **GSAP, React, AI, N8N, Node.js**
-- 📫 How to reach me: **anderson.njoroge.maina@gmail.com**
-- 📄 Know about my experiences: **[https://mainadev.rf.gd](https://mainadev.rf.gd)**
-- ⚡ Fun fact: **Peanuts are used to make dynamite.**
+## 🔥 SYSTEM OVERVIEW
 
----
+<table width="100%">
+<tr>
+<td width="50%">
 
-## 🌐 Connect with me
+### 🎯 CURRENT OPERATIONS
+```yaml
+project: FACS AI Platform
+status: ACTIVE DEVELOPMENT
+location: facsai.ct.ws
+classification: CONFIDENTIAL
+```
 
-<div align="left">
-  <a href="https://twitter.com/anderson_maina_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mainadev_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/dxlor" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</div>
+### 🧠 LEARNING PROTOCOLS
+```bash
+> Executing: Neural Architecture Search (NAS)
+> Status: DEEP LEARNING IN PROGRESS...
+> ETA: CONTINUOUS
+```
 
----
+### 🤝 COLLABORATION MATRIX
+```json
+{
+  "seeking": "nativefier",
+  "expertise": ["GSAP", "React", "AI", "N8N", "Node.js"],
+  "availability": "OPEN SOURCE"
+}
+```
 
-## 🛠️ Languages and Tools
+</td>
+<td width="50%">
 
-<div align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://elixir-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="Elixir" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-  </a>
-</div>
+### 📡 COMMUNICATION CHANNELS
+```css
+.contact {
+  email: anderson.njoroge.maina@gmail.com;
+  portfolio: https://mainadev.rf.gd;
+  security-clearance: PUBLIC;
+}
+```
 
----
+### 🎲 RANDOM FACTS DATABASE
+```python
+fun_fact = {
+    "explosive": "Peanuts create dynamite",
+    "probability": 0.99,
+    "verified": True
+}
+```
 
-## ☕ Support
+### 🚀 MISSION STATUS
+```sql
+SELECT mission FROM life 
+WHERE goal = 'Build Amazing Tech'
+STATUS: EXECUTING...
+```
 
-<div align="left">
-  <a href="https://www.buymeacoffee.com/andersonmaina">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
-  </a>
-</div>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<!-- Epic Divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0&height=2&section=header"/>
+
+## 🌐 NEURAL NETWORK CONNECTIONS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonmaina&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=0d1117&title_color=ff007f&text_color=00d9ff&icon_color=ff007f" alt="Top languages" />
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://twitter.com/anderson_maina_">
+<img src="https://img.shields.io/badge/TWITTER-NEURAL%20LINK-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000"/>
+<br/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="60" height="60"/>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://instagram.com/mainadev_">
+<img src="https://img.shields.io/badge/INSTAGRAM-VISUAL%20FEED-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/>
+<br/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="60" height="60"/>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://www.leetcode.com/dxlor">
+<img src="https://img.shields.io/badge/LEETCODE-ALGORITHM%20HUB-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000"/>
+<br/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="60" height="60"/>
+</a>
+</td>
+</tr>
+</table>
 </div>
 
+<br/>
+
+<!-- Epic Divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&section=header"/>
+
+## ⚡ TECHNOLOGY ARSENAL
+
+### 🔧 DEVELOPMENT STACK
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andersonmaina&show_icons=true&locale=en&theme=radical&bg_color=0d1117&title_color=ff007f&text_color=00d9ff&icon_color=ff007f&border_color=30363d" alt="GitHub stats" />
+<table>
+<tr>
+<td align="center" width="12.5%">
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="65" height="65"/>
+<br/><sub><b>Arduino</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65" height="65"/>
+<br/><sub><b>AWS</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="65" height="65"/>
+<br/><sub><b>Azure</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="65" height="65"/>
+<br/><sub><b>C</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="65" height="65"/>
+<br/><sub><b>C++</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="65" height="65"/>
+<br/><sub><b>CSS3</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="65" height="65"/>
+<br/><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" width="65" height="65"/>
+<br/><sub><b>Elixir</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="12.5%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="65" height="65"/>
+<br/><sub><b>Express</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="65" height="65"/>
+<br/><sub><b>Git</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="65" height="65"/>
+<br/><sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="65" height="65"/>
+<br/><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="65" height="65"/>
+<br/><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="65" height="65"/>
+<br/><sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="65" height="65"/>
+<br/><sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="65" height="65"/>
+<br/><sub><b>OpenCV</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="12.5%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="65" height="65"/>
+<br/><sub><b>Pandas</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="65" height="65"/>
+<br/><sub><b>Photoshop</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="65" height="65"/>
+<br/><sub><b>PHP</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="65" height="65"/>
+<br/><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="65" height="65"/>
+<br/><sub><b>Python</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="65" height="65"/>
+<br/><sub><b>PyTorch</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="65" height="65"/>
+<br/><sub><b>React</b></sub>
+</td>
+<td align="center" width="12.5%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="65" height="65"/>
+<br/><sub><b>Scikit Learn</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="65" height="65"/>
+<br/><sub><b>Seaborn</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="65" height="65"/>
+<br/><sub><b>Spring</b></sub>
+</td>
+<td align="center" width="25%">
+
+</td>
+<td align="center" width="25%">
+
+</td>
+</tr>
+</table>
 </div>
 
+<br/>
+
+<!-- Epic Divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header"/>
+
+## 💰 FUEL THE MISSION
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersonmaina&theme=radical&background=0d1117&stroke=30363d&ring=ff007f&fire=ff007f&currStreakNum=00d9ff&sideNums=00d9ff&currStreakLabel=ff007f&sideLabels=ff007f&dates=8b949e" alt="GitHub streak" />
+<a href="https://www.buymeacoffee.com/andersonmaina">
+<img src="https://img.shields.io/badge/SUPPORT%20THE%20MISSION-BUY%20ME%20A%20COFFEE-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=000000"/>
+<br/><br/>
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" height="60" width="200" alt="Buy me a coffee" />
+</a>
+</div>
+
+<br/>
+
+<!-- Epic Divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18&height=2&section=header"/>
+
+## 🏆 ACHIEVEMENT MATRIX
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=andersonmaina&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub trophies" />
+</div>
+
+<br/>
+
+<!-- Epic Divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30&height=2&section=header"/>
+
+## 📊 SYSTEM ANALYTICS
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=andersonmaina&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF0000&text_color=0000FF&icon_color=FF0000&border_color=000080&hide_border=false&border_radius=15" alt="GitHub stats" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonmaina&layout=compact&theme=dark&bg_color=0d1117&title_color=FF0000&text_color=0000FF&border_color=000080&hide_border=false&border_radius=15" alt="Top languages" width="100%"/>
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=andersonmaina&theme=dark&background=0d1117&stroke=000080&ring=FF0000&fire=FF0000&currStreakNum=0000FF&sideNums=0000FF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF&border=000080&border_radius=15" alt="GitHub streak" width="70%"/>
+</div>
+
+<br/>
+
+<!-- Epic Footer -->
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:000080,100:FF0000&height=200&section=footer&text=TRANSMISSION%20COMPLETE&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
+</div>
+
+<!-- Final Matrix Effect -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=2000&color=FF0000&background=00000000&center=true&vCenter=true&width=1000&height=50&lines=SYSTEM+STATUS%3A+ONLINE;NEURAL+NETWORKS%3A+OPTIMIZED;READY+FOR+NEXT+MISSION..." alt="Footer Typing" />
 </div>
