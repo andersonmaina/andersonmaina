@@ -2,18 +2,18 @@
   <h1>👋 Hi, I'm Anderson</h1>
   <h3>Web and AI Developer</h3>
   
-  <img src="https://komarev.com/ghpvc/?username=andersonmaina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=andersonmaina&label=Profile%20views&color=ff007f&style=flat" alt="Profile views" />
 </div>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=andersonmaina&theme=flat&no-frame=true&margin-w=10" alt="GitHub trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=andersonmaina&theme=radical&no-frame=true&margin-w=10&row=2&column=4" alt="GitHub trophies" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://twitter.com/anderson_maina_" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/anderson_maina_?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter follow" />
+    <img src="https://img.shields.io/twitter/follow/anderson_maina_?logo=twitter&style=for-the-badge&color=ff007f&labelColor=1a1a2e" alt="Twitter follow" />
   </a>
 </div>
 
@@ -145,13 +145,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonmaina&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonmaina&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=0d1117&title_color=ff007f&text_color=00d9ff&icon_color=ff007f" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andersonmaina&show_icons=true&locale=en&theme=transparent" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andersonmaina&show_icons=true&locale=en&theme=radical&bg_color=0d1117&title_color=ff007f&text_color=00d9ff&icon_color=ff007f&border_color=30363d" alt="GitHub stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersonmaina&theme=transparent" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersonmaina&theme=radical&background=0d1117&stroke=30363d&ring=ff007f&fire=ff007f&currStreakNum=00d9ff&sideNums=00d9ff&currStreakLabel=ff007f&sideLabels=ff007f&dates=8b949e" alt="GitHub streak" />
 </div>
