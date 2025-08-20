@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m currently working on FACS (Fetal Anomaly Classification System) - <a href="https://facsai.ct.ws">FACS AI</a>.<br>🤝 I’m looking to collaborate on Nativefier <br>📚 I’m currently learning NAS for LLM optimization.<br>💬 Ask me about React, Node.js, AI, Cloud, and Computing.<br>🎉 Fun fact: Peanuts are used to make dynamites!
+💻 I’m currently working on FACS (AI Based Fetal Anomaly Classification System) - <a targer="_blank" href="https://facsai.ct.ws">FACS AI(use ngrok id 345124de7129)</a>.<br>🤝 I’m looking to collaborate on Nativefier <br>📚 I’m currently learning NAS for LLM optimization.<br>💬 Ask me about React, Node.js, AI, Cloud, and Computing.<br>🎉 Fun fact: Peanuts are used to make dynamites!
 
 
 ## 🌐 Socials:
