@@ -1,149 +1,31 @@
-<!-- Header Section -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:000080,100:000000&height=300&section=header&text=ANDERSON%20MAINA&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Web%20%26%20AI%20Developer%20%7C%20Neural%20Architecture%20Specialist&descAlignY=55&descSize=18"/>
-</div>
+# 💫 About Me:
+💻 I’m currently working on FACS (Fetal Anomaly Classification System).<br>🤝 I’m looking to collaborate on Nativefier <br>📚 I’m currently learning NAS for LLM optimization.<br>💬 Ask me about React, Node.js, AI, Cloud, and Computing.<br>🎉 Fun fact: Peanuts are used to make dynamites!
 
-<!-- Status Badges -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=andersonmaina&label=SYSTEM%20ACCESS&color=FF0000&style=plastic&labelColor=000080" />
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=plastic&logo=statuspage&logoColor=white&labelColor=000080" />
-  <img src="https://img.shields.io/badge/AI%20SPECIALIST-NEURAL%20ARCH-FF0000?style=plastic&logo=artificial-intelligence&logoColor=white&labelColor=000080" />
-  <img src="https://img.shields.io/badge/MODE-INNOVATION-0000FF?style=plastic&logo=rocket&logoColor=white&labelColor=000000" />
-</div>
 
-<br/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mainadev_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anderson_Maina_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrson.njoroge.maina@gmail.com) 
 
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=1000&height=80&lines=INITIALIZING+SYSTEMS...;LOADING+NEURAL+NETWORKS...;ANDERSON.EXE+READY;BUILDING+THE+FUTURE+WITH+CODE"/>
-</div>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=andersonmaina&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=andersonmaina&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmaina&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=andersonmaina&theme=shadow_blue&no-frame=true&no-bg=true&margin-w=4)
 
-## 🔥 SYSTEM OVERVIEW
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
-<table width="100%" style="border-collapse: collapse; text-align: center;">
-<tr>
-
-<td width="33%" style="background: #0d1117; border: 2px solid #FF0000; border-radius: 15px; padding: 20px;">
-  <h3>🎯 Current Operations</h3>
-  <p><b>Project:</b> <span style="color:#00ff00;">FACS AI Platform</span></p>
-  <p><b>Status:</b> <span style="color:#FF0000;">Active Development</span></p>
-  <p><b>Location:</b> <span style="color:#0000FF;">facsai.ct.ws</span></p>
-  <p><b>Classification:</b> <span style="color:#ffff00;">Confidential</span></p>
-</td>
-
-<td width="33%" style="background: #0d1117; border: 2px solid #0000FF; border-radius: 15px; padding: 20px;">
-  <h3>🧠 Learning Protocols</h3>
-  <p>🔹 Neural Architecture Search (NAS)</p>
-  <p>🔹 Status: <span style="color:#FF0000;">Deep Learning in Progress</span></p>
-  <p>🔹 ETA: Continuous</p>
-</td>
-
-<td width="33%" style="background: #0d1117; border: 2px solid #00ff00; border-radius: 15px; padding: 20px;">
-  <h3>🚀 Mission Status</h3>
-  <p><b>Goal:</b> Build Amazing Tech</p>
-  <p><b>Status:</b> <span style="color:#00ff00; font-weight:bold;">Executing...</span></p>
-  <p><b>Mode:</b> <span style="color:#ff00ff;">Innovation</span></p>
-</td>
-
-</tr>
-</table>
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=andersonmaina&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=andersonmaina&icon=9&color=1)](https://visitcount.itsvg.in)
 
-## 🌐 NEURAL NETWORK CONNECTIONS  
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/andersonmaina) 
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-<a href="https://twitter.com/anderson_maina_">
-<img src="https://img.shields.io/badge/TWITTER-NEURAL%20LINK-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000"/>
-<br/>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="60" height="60"/>
-</a>
-</td>
-<td align="center" width="33%">
-<a href="https://instagram.com/mainadev_">
-<img src="https://img.shields.io/badge/INSTAGRAM-VISUAL%20FEED-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/>
-<br/>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="60" height="60"/>
-</a>
-</td>
-<td align="center" width="33%">
-<a href="https://www.leetcode.com/andersonmaina">
-<img src="https://img.shields.io/badge/LEETCODE-ALGORITHM%20HUB-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000"/>
-<br/>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="60" height="60"/>
-</a>
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## ⚡ TECHNOLOGY ARSENAL  
-
-<div align="center">
   
-![Skills](https://skillicons.dev/icons?i=arduino,aws,azure,c,cpp,css,docker,elixir,express,git,html,js,linux,mysql,nodejs,opencv,pandas,php,postgres,python,pytorch,react,sklearn,seaborn,spring,photoshop)
-
-</div>
-
----
-
-## 🏆 ACHIEVEMENT MATRIX  
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=andersonmaina&theme=matrix&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" />
-</div>
-
----
-
-## 📊 SYSTEM ANALYTICS  
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=andersonmaina&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF0000&text_color=00FF00&icon_color=FF0000&border_color=000080&hide_border=false&border_radius=15" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonmaina&layout=compact&theme=radical&bg_color=0d1117&title_color=FF0000&text_color=00FF00&border_color=000080&hide_border=false&border_radius=15" width="100%"/>
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=andersonmaina&theme=radical&background=0d1117&stroke=000080&ring=FF0000&fire=FF0000&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF&border=000080&border_radius=15" width="70%"/>
-</div>
-
----
-
-## 💰 FUEL THE MISSION  
-
-<div align="center">
-<a href="https://www.buymeacoffee.com/andersonmaina">
-<img src="https://img.shields.io/badge/SUPPORT%20THE%20MISSION-BUY%20ME%20A%20COFFEE-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=000000"/>
-<br/><br/>
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" height="60" width="200" alt="Buy me a coffee" />
-</a>
-</div>
-
----
-
-<!-- Footer -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:000080,100:FF0000&height=200&section=footer&text=TRANSMISSION%20COMPLETE&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=2000&color=FF0000&background=00000000&center=true&vCenter=true&width=1000&height=50&lines=SYSTEM+STATUS%3A+ONLINE;NEURAL+NETWORKS%3A+OPTIMIZED;READY+FOR+NEXT+MISSION..." />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
