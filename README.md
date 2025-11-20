@@ -1,5 +1,6 @@
 # 💫 About Me:
-💻 I’m currently working on FACS (AI Based Fetal Anomaly Classification System) - <a href="https://facsai.ct.ws" target="_blank">FACS AI</a> <br><br>(ngrok id=c527e68f6f90) .<br><br>Upload an ultrasound image in CRL(<a href="https://en.wikipedia.org/wiki/File:CRL_Crown_rump_length_12_weeks_ecografia_Dr._Wolfgang_Moroder.jpg" target="_blank">sample image by  by Dr.Wolfgang Moroder. </a>) or NT view for inference<br><br>Try it on telegrm too <a href="https://t.me/facsaibot" target="_blank">Telegram bot<a/><br><br>🤝 I’m looking to collaborate on Nativefier <br>📚 I’m currently learning NAS for LLM optimization.<br>💬 Ask me about React, Node.js, AI, Cloud, and Computing.<br>🎉Peanuts are used to make dynamites!
+
+<br><br>🤝 I’m looking to collaborate on Nativefier <br>📚 I’m currently learning NAS for LLM optimization.<br>💬 Ask me about React, Node.js, AI, Cloud, and Computing.<br>🎉Peanuts are used to make dynamites!
 
 
 ## 🌐 Socials:
