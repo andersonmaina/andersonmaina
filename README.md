@@ -6,7 +6,7 @@ Full-stack dev
 
 ## Tech Stack
 
-**Languages:** JavaScript/TypeScript, Python, C++ 
+**Languages:** JavaScript/TypeScript, Python, C++ <br>
 **Frontend:** React, Three.js, TailwindCSS, SASS  
 **Backend:** Node.js, Flask, Electron, Supabase  
 **Cloud & Tools:** AWS, Docker, SQLite, Bash <br>
