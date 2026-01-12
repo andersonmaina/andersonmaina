@@ -10,7 +10,6 @@ Full-stack dev
 **Frontend:** React, Three.js, TailwindCSS, SASS  
 **Backend:** Node.js, Flask, Electron, Supabase  
 **Cloud & Tools:** AWS, Docker, SQLite, Bash 
-
 **AI/ML:** PyTorch, NumPy, Pandas
 
 ## Connect
