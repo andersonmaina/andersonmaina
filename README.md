@@ -1,15 +1,14 @@
-
-Full-stack dev
+System Designer
 
 - 🤝 Open to collaboration.
-- 💬 Happy to discuss React, Node.js, AI, and cloud architecture
+- 💬 Happy to discuss React Native, Node.js, AI, and cloud architecture
 
 ## Tech Stack
 
-**Languages:** JavaScript/TypeScript, Python, C++ <br>
-**Frontend:** React, Three.js, TailwindCSS, SASS  
-**Backend:** Node.js, Flask, Electron, Supabase  
-**Cloud & Tools:** AWS, Docker, SQLite, Bash <br>
+**Languages:** TypeScript, Python, C++ <br>
+**Frontend:** React, TailwindCSS
+**Backend:** Node.js, Supabase  
+**Cloud & Tools:** Docker, SQLite <br>
 **AI/ML:** PyTorch, NumPy, Pandas
 
 ## Connect
