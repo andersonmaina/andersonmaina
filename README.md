@@ -6,8 +6,8 @@ System Designer
 ## Tech Stack
 
 **Languages:** TypeScript, Python, C++ <br>
-**Frontend:** React, TailwindCSS
-**Backend:** Node.js
+**Frontend:** React, TailwindCSS <br>
+**Backend:** Node.js <br>
 **Cloud & Tools:** Supabase, Docker, SQLite <br>
 **AI/ML:** PyTorch, NumPy, Pandas
 
