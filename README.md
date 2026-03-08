@@ -2,7 +2,7 @@ Full Stack Developer
 
 - 🤝 Open to collaboration.
 - 
-## My Tech Stack
+## Tech Stack
 
 **Languages:** TypeScript, Python <br>
 **Frontend:** React, Tailwind CSS, Vite <br>
@@ -11,7 +11,7 @@ Full Stack Developer
 **Cloud & DevOps:** Google cloud, Supabase, Docker <br>
 **Tools:** Git, Github, Macrodroid
 
-## Connect with me
+## Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrson.njoroge.maina@gmail.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/brzzyoi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irqplo)
 
