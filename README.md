@@ -1,7 +1,7 @@
 Full Stack Developer
 
-- 🤝 Open to collaboration.
-- 
+- 🤝 Open to collaboration
+
 ## Tech Stack
 
 **Languages:** TypeScript, Python <br>
