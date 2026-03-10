@@ -5,7 +5,8 @@ Full Stack Developer
 ## Tech Stack
 
 **Languages:** TypeScript, Python <br>
-**Frontend:** React, Tailwind CSS, Vite <br>
+**Frontend:** Tailwind CSS, Vite <br>
+**Frameworks:** Expo, React <br>
 **Backend:** Node.js, Flask, FastAPI <br>
 **AI/ML:** PyTorch, OpenCV, scikit-learn <br>
 **Cloud & DevOps:** Google cloud, Supabase, Docker <br>
