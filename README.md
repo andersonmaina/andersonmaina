@@ -1,8 +1,8 @@
 Full Stack Developer
 
-- 🤝 Open to collaboration
+-  Open to collaboration
 
-## Tech Stack
+## Tech stack
 
 **Languages:** TypeScript, Python <br>
 **Frontend:** Tailwind CSS, Vite <br>
