@@ -1,7 +1,6 @@
 Full Stack Developer
 
--  Open to collaboration
-
+-  Open to collaborate on projects
 
 ## Connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irlqplo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mainanderson) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/brzzyoi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anderson.njoroge.maina@gmail.com) 
@@ -14,17 +13,13 @@ Full Stack Developer
 ![](https://streak-stats.demolab.com/?user=andersonmaina&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=andersonmaina&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=andersonmaina&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
 
 ## Support
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/andersonmaina)
 
 ## 
-[![](https://komarev.com/ghpvc/?username=your-github-andersonmaina&color=1)](https://visitcount.itsvg.in)
-![Profile views](https://komarev.com/ghpvc/?username=your-github-andersonmaina&color=1)
+![Profile views](https://komarev.com/ghpvc/?username=your-github-andersonmaina)
 
 
 
